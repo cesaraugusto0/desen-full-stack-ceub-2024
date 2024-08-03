@@ -1,0 +1,16 @@
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/assets/feijoada.webp
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/assets/lasanha.jpg
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/assets/sushi.jpg
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/assets/torta.jpeg
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/cesar.augusto/AndroidStudioProjects/app1/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
